@@ -1,4 +1,7 @@
 // script.js
-// This file will handle interactivity for the Perfect Pitch Digital Ear app
+// Simple interactivity test
 
-console.log("Perfect Pitch Digital Ear script loaded!");
+document.addEventListener("DOMContentLoaded", function() {
+  alert("Welcome to the Perfect Pitch Digital Ear App!");
+  console.log("script.js is running and connected!");
+});
